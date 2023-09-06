@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mobile Dictionary</string>
+    <string name="phonetics">Phonetics (Tap ♪ to play sound)</string>
 </resources>
